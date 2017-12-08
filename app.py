@@ -161,4 +161,4 @@ def new():
 def custom500(error):
     uttak = "Þú verður að vera skráður inn. Ef þú ert ekki með aðgang, getur þú búið hann til"
     return template("indexAfterSignup.tpl",uttak=uttak)
-run()
+run(host='0.0.0.0',  port=os.environ.get('PORT'))
