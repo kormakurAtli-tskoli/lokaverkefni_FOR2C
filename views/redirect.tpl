@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; url=thread" />
+<meta http-equiv="refresh" content="3; url=thread" />
 <link rel="shortcut icon" type="image/ico" href="static/favicon.ico"/>
 <title>Bindle</title>
 <div style="position: absolute;
